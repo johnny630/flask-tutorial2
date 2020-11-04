@@ -1,0 +1,5 @@
+FLASK_APP=main.py
+FLASK_ENV=development
+
+SECRET_KEY='secret_key'
+DB='sqlite:////tmp/test.db'
